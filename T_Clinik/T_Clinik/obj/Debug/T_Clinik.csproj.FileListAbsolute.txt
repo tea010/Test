@@ -1,0 +1,12 @@
+c:\users\teodora\documents\visual studio 2012\Projects\T_Clinik\T_Clinik\bin\Debug\T_Clinik.exe.config
+c:\users\teodora\documents\visual studio 2012\Projects\T_Clinik\T_Clinik\bin\Debug\T_Clinik.exe
+c:\users\teodora\documents\visual studio 2012\Projects\T_Clinik\T_Clinik\bin\Debug\T_Clinik.pdb
+c:\users\teodora\documents\visual studio 2012\Projects\T_Clinik\T_Clinik\obj\Debug\T_Clinik.csprojResolveAssemblyReference.cache
+c:\users\teodora\documents\visual studio 2012\Projects\T_Clinik\T_Clinik\obj\Debug\T_Clinik.Form1.resources
+c:\users\teodora\documents\visual studio 2012\Projects\T_Clinik\T_Clinik\obj\Debug\T_Clinik.csproj.GenerateResource.Cache
+c:\users\teodora\documents\visual studio 2012\Projects\T_Clinik\T_Clinik\obj\Debug\T_Clinik.exe
+c:\users\teodora\documents\visual studio 2012\Projects\T_Clinik\T_Clinik\obj\Debug\T_Clinik.pdb
+C:\Users\Teodora\documents\visual studio 2012\Projects\T_Clinik\T_Clinik\bin\Debug\EntityFramework.dll
+C:\Users\Teodora\documents\visual studio 2012\Projects\T_Clinik\T_Clinik\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Teodora\documents\visual studio 2012\Projects\T_Clinik\T_Clinik\bin\Debug\EntityFramework.xml
+C:\Users\Teodora\documents\visual studio 2012\Projects\T_Clinik\T_Clinik\bin\Debug\EntityFramework.SqlServer.xml
