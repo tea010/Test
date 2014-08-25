@@ -35,14 +35,13 @@ namespace T_Clinik
             {
                 pac.Pol = false;
             }
+
             pac.Prezime = txbSurname.Text;
             pac.Rodjenje = dTpBirth.Value;
             pac.Telefon = Convert.ToInt32(telefon.Text);
 
             SqlConnection sc = new SqlConnection("Data Source=MOJ-SI-JE\\SQLEXPRESS;Integrated Security=True");
             
-
-
         }
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
