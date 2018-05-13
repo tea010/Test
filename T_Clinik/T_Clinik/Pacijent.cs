@@ -13,6 +13,6 @@ namespace T_Clinik
         public DateTime Rodjenje { get; set; }
         public string Adresa { get; set; }
         public bool Pol { get; set; }
-        public int Telefon { get; set; }
+        public int Telefon { get; set; } 
     }
 }
